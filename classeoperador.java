@@ -13,7 +13,11 @@ public class classeoperador {
 		
 		area=lado1*lado1;
 		System.out.println(area);
+<<<<<<< HEAD
 	
+=======
+		System.out.println("***********oiiii");
+>>>>>>> master
 
 	}
 
