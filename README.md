@@ -3,3 +3,4 @@
 Alteração de arquivos .java
 Adicionado novos arquivos ao repositório atual
 Alterando novamente
+Adicionando o .gitignore
